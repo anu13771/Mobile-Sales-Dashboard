@@ -1,7 +1,10 @@
-Motorola Mobile Sales Dashboard
+## Motorola Mobile Sales Dashboard
 Welcome to the Motorola Mobile Sales Dashboard project! This Power BI dashboard is designed to give a complete visual summary of mobile sales performance across different cities in India. It’s packed with interactive insights that help understand how Motorola and its competitor brands are performing — from sales and quantity to customer ratings and payment preferences.
 
-📊 Project Summary
+![Snapshot of Mobile Sales Dashboard](https://github.com/user-attachments/assets/92724798-2d82-4097-ba3f-16239306caec)
+
+
+## 📊 Project Summary
 This dashboard was built to help marketing and sales teams track key metrics like:
 
 Total Sales: ₹65M across all brands
@@ -14,7 +17,7 @@ Total Quantity Sold: 2,000 units
 
 It highlights performance by city, month, brand, payment method, and day of the week to allow deep analysis and smarter decision-making.
 
-🧩 Key Dashboard Components
+## 🧩 Key Dashboard Components
 🗺️ Sales by City: Visual map showing where the highest sales are coming from (Mumbai, Hyderabad, Chennai, etc.)
 
 📅 Sales by Day: Track which days drive the most revenue — Tuesday and Sunday are the top performers!
@@ -38,14 +41,14 @@ Day Name
 
 Month (January to December)
 
-🧰 Tools Used
+## 🧰 Tools Used
 Power BI Desktop for data visualization
 
 DAX & Power Query for data modeling and transformation
 
 Microsoft Bing Maps for geospatial visuals
 
-📈 Insights You Can Get
+## 📈 Insights You Can Get
 Which city has the highest mobile sales?
 
 What payment method is most preferred?
@@ -56,7 +59,7 @@ Which days are best for sales campaigns?
 
 How are customers rating their purchases?
 
-👩‍💻 Who Is This For?
+## 👩‍💻 Who Is This For?
 This dashboard is perfect for:
 
 Sales Managers who want to monitor performance
